@@ -20,7 +20,7 @@ This repository contains all my write-ups for Linux Luminarium, Bandit Game and 
 - [Untangling Users](./LinuxLuminarium/Untangling_Users.md)
 - [Chaining Commands](./LinuxLuminarium/Chaining_commands.md)
 - [Pondering Path](./LinuxLuminarium/Pondering_PATH.md)
-
+<!-- 
 ## Bandit Game
 
 ### Table Of Contents
@@ -35,13 +35,13 @@ This repository contains all my write-ups for Linux Luminarium, Bandit Game and 
 - [Forensics](/PicoCTF/forensics.md)
 - [Web Exploitation](/PicoCTF/Web_Exploitation.md)
 - [Binary Exploitation](/PicoCTF/Binary_Exploitation.md)
-  
+   -->
 
 
 
-
+<!-- 
 # PicoCTF Progress
 
-![alt text](image.png)
+![alt text](image.png) -->
 
 
