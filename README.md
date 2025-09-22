@@ -1,7 +1,6 @@
-# Cryptonite Task Phase
+# Cryptonite Senior Task Phase
 
-This repository contains all my write-ups for Linux Luminarium, Bandit Game and PicoCTF.
-
+This repository contains all my write-ups for Linux Luminarium, OTW Bandit Game
 ## Linux Luminarium
 
 ![](https://i.imgur.com/QevQHmx.png)
