@@ -10,7 +10,7 @@ This repository contains all my write-ups for Linux Luminarium, Bandit Game and 
 - [Hello Hackers](./LinuxLuminarium/HelloHackers.md)
 - [Pondering Paths](./LinuxLuminarium/Pondering_Paths.md)
 - [Comprehending Commands](./LinuxLuminarium/Comprehending_Commands.md)
-- [Digesting_Documentation](./LinuxLuminarium/Digesting_Documentation.md)
+<!-- - [Digesting_Documentation](./LinuxLuminarium/Digesting_Documentation.md)
 
 - [File_Globbing](./LinuxLuminarium/File_Globbing.md)
 - [Practising_Piping](./LinuxLuminarium/Practising_Piping.md)
@@ -19,7 +19,7 @@ This repository contains all my write-ups for Linux Luminarium, Bandit Game and 
 - [Shell Variables](./LinuxLuminarium/Shell_Variables.md)
 - [Untangling Users](./LinuxLuminarium/Untangling_Users.md)
 - [Chaining Commands](./LinuxLuminarium/Chaining_commands.md)
-- [Pondering Path](./LinuxLuminarium/Pondering_PATH.md)
+- [Pondering Path](./LinuxLuminarium/Pondering_PATH.md) -->
 <!-- 
 ## Bandit Game
 
