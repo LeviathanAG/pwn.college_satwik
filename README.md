@@ -13,7 +13,7 @@ This repository contains all my write-ups for Linux Luminarium, OTW Bandit Game
 
 - [File_Globbing](./LinuxLuminarium/File_Globbing.md)
 - [Practising_Piping](./LinuxLuminarium/Practising_Piping.md)
-<!-- - [Processes and jobs](./LinuxLuminarium/Processes_and_jobs.md) -->
+- [Processes and jobs](./LinuxLuminarium/Processes_and_jobs.md)
 <!-- - [Perceving Permissions](./LinuxLuminarium/Perceiving_Permissions.md) -->
 - [Shell Variables](./LinuxLuminarium/Shell_Variables.md)
   
