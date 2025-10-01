@@ -18,7 +18,7 @@ This repository contains all my write-ups for Linux Luminarium, OTW Bandit Game
 - [Shell Variables](./LinuxLuminarium/Shell_Variables.md)
   
 - [Data Manipulation](./LinuxLuminarium/Data_Manipulation.md)
-<!-- - [Untangling Users](./LinuxLuminarium/Untangling_Users.md) -->
+- [Untangling Users](./LinuxLuminarium/Untangling_Users.md)
 <!-- - [Chaining Commands](./LinuxLuminarium/Chaining_commands.md) -->
 <!-- - [Pondering Path](./LinuxLuminarium/Pondering_PATH.md) -->
 <!-- 
