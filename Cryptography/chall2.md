@@ -167,3 +167,7 @@ CSCTF{2441d2f22fa1d5b9fc0a850dcfbbccf608cafbc22a1beaae0ac328ff6d218781}
 
 # The flag :
 `CSCTF{2441d2f22fa1d5b9fc0a850dcfbbccf608cafbc22a1beaae0ac328ff6d218781}`
+
+# mitigations
+
+easily bruteforcable if person knows generator script but otherwise its fine imo.

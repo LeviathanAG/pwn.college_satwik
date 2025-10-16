@@ -404,4 +404,7 @@ b'MCTF{hardy_muskat_williams2coppersmith}'
 ```
 
 
+# mitigations
+
+randomise the base value more by giving it a larger range rendering coppersmith unusable.
 

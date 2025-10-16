@@ -62,4 +62,8 @@ The flag : `flaggg{w0w_g0od_j0b_V3ry_gr34t_amazing_AW35OMEE}`
 
 - So basically this is an XOR cipher where we xor our message with a known key by cycling thru the letters. it can be easily broken in real world scenarios if someone has our key and the final message.
 
+# Mititgations
+
+use something stronger like RSA.
+
 

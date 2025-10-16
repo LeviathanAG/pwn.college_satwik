@@ -1,6 +1,12 @@
 
 # Chall 3
 
+
+
+## Flag:
+`idek{charles_and_the_chocolate_factory!!!}`
+
+
 lets look at the chall.py and write some comments first : 
 
 ```
@@ -47,8 +53,6 @@ remain = [8895257586682794796598302435194842857164404548185295558530722986842730
 # brute force takes too long
 ```
 
-## Flag:
-`idek{charles_and_the_chocolate_factory!!!}`
 
 ## Solution
 
