@@ -19,4 +19,7 @@ on rewriting we get :
 
 `suspect 2 = (p**2 + 1234)**q % n`
 
-`p and q are random primes with 1024 bits`
+`p and q are random primes with 1024 bits`.
+
+I couldnt give enough time to this challenge since i was hardstuck on chall 4. will try again in a bit
+
