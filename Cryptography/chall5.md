@@ -21,5 +21,7 @@ on rewriting we get :
 
 `p and q are random primes with 1024 bits`.
 
+Im not able to think of a method where i can deduce any relationship between p and q
+
 I couldnt give enough time to this challenge since i was hardstuck on chall 4. will try again in a bit
 
